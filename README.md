@@ -1,7 +1,7 @@
 # Medical Cost Prediction
 
 # Introduction
-```Health insurance or medical insurance is a type of insurance that covers the whole or a part of the risk of a person incurring medical expenses. By estimating the overall risk of health risk and health system expenses over the risk pool, an insurer can develop a routine finance structure, such as a monthly premium or payroll tax, to provide the money to pay for the health care benefits specified in the insurance agreement. ```— [Wikipedia](https://en.wikipedia.org/wiki/Health_insurance)
+Health insurance or medical insurance is a type of insurance that covers the whole or a part of the risk of a person incurring medical expenses. By estimating the overall risk of health risk and health system expenses over the risk pool, an insurer can develop a routine finance structure, such as a monthly premium or payroll tax, to provide the money to pay for the health care benefits specified in the insurance agreement.— [Wikipedia](https://en.wikipedia.org/wiki/Health_insurance)
 
 In this repository, the cost borne by insurance companies for their customers who took insurance is predicted. Different ML Regression algorithms like Linear Regression, kNN Regression, SVM Regression, Random Forest Regression, XGBoost Regression were used for prediction.
 
