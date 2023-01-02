@@ -11,9 +11,7 @@ In this repository, the cost borne by insurance companies for their customers wh
 | Linear Regression with L1 and L2 regularization    | 0.9429 |
 | kNN Regressor      | 0.3386      |
 | **SVM Regressor** | **0.2112**     |
-|  Random Forest Regressor    | 0.3064 |
-| XGBoost Regressor      | 0.2663      |
 
 
 # Conclusion
-In this repository, different experiments are done to predict the medical charges. The SVM Regression model worked well with MAPE of **0.2112**. In insurance industry, it is very important to know which features increase our costs. Even though SVM gave least MAPE, I would like to go with **XGBoost** as we can get **feature importance** with XGBoost model.
+In this repository, different experiments are done to predict the medical charges. The SVM Regression model worked well with MAPE of **0.2112**. In insurance industry, it is very important to know which features increase our costs. 
